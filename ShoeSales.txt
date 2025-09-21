@@ -1,0 +1,395 @@
+Africa,Addis Ababa,Boot,12,"$29,761","$191,821",$769
+Africa,Addis Ababa,Men's Casual,4,"$67,242","$118,036","$2,284"
+Africa,Addis Ababa,Men's Dress,7,"$76,793","$136,273","$2,433"
+Africa,Addis Ababa,Sandal,10,"$62,819","$204,284","$1,861"
+Africa,Addis Ababa,Slipper,14,"$68,641","$279,795","$1,771"
+Africa,Addis Ababa,Sport Shoe,4,"$1,690","$16,634",$79
+Africa,Addis Ababa,Women's Casual,2,"$51,541","$98,641",$940
+Africa,Addis Ababa,Women's Dress,12,"$108,942","$311,017","$3,233"
+Africa,Algiers,Boot,21,"$21,297","$73,737",$710
+Africa,Algiers,Men's Casual,4,"$63,206","$100,982","$2,221"
+Africa,Algiers,Men's Dress,13,"$123,743","$428,575","$3,621"
+Africa,Algiers,Sandal,25,"$29,198","$84,447","$1,530"
+Africa,Algiers,Slipper,17,"$64,891","$248,198","$1,823"
+Africa,Algiers,Sport Shoe,9,"$2,617","$9,372",$168
+Africa,Algiers,Women's Dress,12,"$90,648","$266,805","$2,690"
+Africa,Cairo,Boot,20,"$4,846","$18,965",$229
+Africa,Cairo,Men's Casual,25,"$360,209","$1,063,251","$9,424"
+Africa,Cairo,Men's Dress,5,"$4,051","$45,962",$97
+Africa,Cairo,Sandal,9,"$10,532","$50,430",$598
+Africa,Cairo,Slipper,9,"$13,732","$54,117","$1,216"
+Africa,Cairo,Sport Shoe,3,"$2,259","$20,815",$44
+Africa,Cairo,Women's Casual,14,"$328,474","$940,851","$10,124"
+Africa,Cairo,Women's Dress,3,"$14,095","$51,145",$745
+Africa,Johannesburg,Boot,14,"$8,365","$33,011",$483
+Africa,Johannesburg,Sandal,13,"$17,337","$63,003",$809
+Africa,Johannesburg,Slipper,12,"$39,452","$130,025","$1,565"
+Africa,Johannesburg,Sport Shoe,8,"$5,172","$29,368",$139
+Africa,Johannesburg,Women's Dress,4,"$42,682","$120,127",$966
+Africa,Khartoum,Boot,24,"$19,282","$105,370",$700
+Africa,Khartoum,Men's Casual,1,"$9,244","$16,230",$478
+Africa,Khartoum,Men's Dress,3,"$18,053","$51,132","$1,177"
+Africa,Khartoum,Sandal,18,"$26,427","$81,825","$1,281"
+Africa,Khartoum,Slipper,11,"$43,452","$143,015","$1,573"
+Africa,Khartoum,Sport Shoe,7,"$2,521","$27,041",$84
+Africa,Khartoum,Women's Casual,1,"$19,582","$30,727",$384
+Africa,Khartoum,Women's Dress,6,"$48,031","$132,679","$1,374"
+Africa,Kinshasa,Boot,16,"$13,921","$70,736",$553
+Africa,Kinshasa,Men's Dress,5,"$57,691","$95,663","$1,699"
+Africa,Kinshasa,Sandal,10,"$16,662","$104,438",$611
+Africa,Kinshasa,Slipper,11,"$52,807","$183,937","$1,440"
+Africa,Kinshasa,Sport Shoe,10,"$4,888","$27,998",$162
+Africa,Kinshasa,Women's Casual,1,"$17,919","$21,363",$400
+Africa,Kinshasa,Women's Dress,3,"$32,928","$87,149",$717
+Africa,Luanda,Boot,8,"$6,081","$51,572",$325
+Africa,Luanda,Men's Casual,3,"$62,893","$149,864","$1,701"
+Africa,Luanda,Men's Dress,2,"$29,582","$67,247",$705
+Africa,Luanda,Sandal,9,"$11,145","$19,900",$657
+Africa,Luanda,Slipper,5,"$19,146","$97,060",$701
+Africa,Luanda,Sport Shoe,2,$801,"$3,247",$29
+Africa,Luanda,Women's Dress,1,"$8,467","$47,387",$210
+Africa,Nairobi,Boot,25,"$16,282","$66,017",$844
+Africa,Nairobi,Men's Dress,1,"$8,587","$20,877",$363
+Africa,Nairobi,Sandal,19,"$16,289","$47,406","$1,175"
+Africa,Nairobi,Slipper,12,"$34,955","$87,438","$1,320"
+Africa,Nairobi,Sport Shoe,10,"$2,202","$11,328",$174
+Africa,Nairobi,Women's Dress,3,"$28,515","$62,740",$678
+Asia,Bangkok,Boot,1,"$1,996","$9,576",$80
+Asia,Bangkok,Men's Dress,1,"$3,033","$20,831",$52
+Asia,Bangkok,Sandal,1,"$3,230","$15,087",$120
+Asia,Bangkok,Slipper,1,"$3,019","$16,075",$127
+Asia,Bangkok,Women's Casual,1,"$5,389","$16,251",$185
+Asia,Seoul,Boot,17,"$60,712","$160,589","$1,296"
+Asia,Seoul,Men's Casual,1,"$11,754","$2,176",$833
+Asia,Seoul,Men's Dress,7,"$116,333","$251,803","$2,443"
+Asia,Seoul,Sandal,3,"$4,978","$21,483",$105
+Asia,Seoul,Slipper,21,"$149,013","$469,007","$2,941"
+Asia,Seoul,Sport Shoe,1,$937,$455,$10
+Asia,Seoul,Women's Casual,2,"$20,448","$36,576",$790
+Asia,Seoul,Women's Dress,7,"$78,234","$140,628","$1,891"
+Asia,Tokyo,Sport Shoe,1,"$1,155","$15,602",$22
+Canada,Calgary,Boot,8,"$17,720","$63,280",$472
+Canada,Calgary,Men's Dress,1,"$12,775","$39,663",$353
+Canada,Calgary,Sandal,7,"$2,886","$15,838",$147
+Canada,Calgary,Slipper,2,"$5,676","$48,061",$253
+Canada,Calgary,Sport Shoe,9,"$9,745","$38,059",$264
+Canada,Calgary,Women's Dress,2,"$12,601","$54,677",$488
+Canada,Montreal,Boot,25,"$40,213","$240,132","$1,472"
+Canada,Montreal,Men's Casual,3,"$53,929","$187,155","$2,241"
+Canada,Montreal,Men's Dress,11,"$112,009","$355,170","$3,713"
+Canada,Montreal,Sandal,7,"$3,002","$18,382",$122
+Canada,Montreal,Slipper,24,"$135,305","$500,053","$3,395"
+Canada,Montreal,Sport Shoe,31,"$29,435","$178,128","$1,129"
+Canada,Montreal,Women's Casual,2,"$24,497","$34,808",$832
+Canada,Montreal,Women's Dress,12,"$132,638","$483,637","$2,880"
+Canada,Ottawa,Boot,5,"$7,892","$28,162",$377
+Canada,Ottawa,Men's Casual,1,"$19,210","$29,249",$578
+Canada,Ottawa,Sandal,2,"$2,600","$1,727",$27
+Canada,Ottawa,Slipper,10,"$30,905","$89,576","$1,397"
+Canada,Ottawa,Sport Shoe,6,"$2,598","$15,007",$204
+Canada,Ottawa,Women's Casual,1,"$18,712","$46,064",$427
+Canada,Ottawa,Women's Dress,4,"$33,824","$84,378",$939
+Canada,Toronto,Boot,16,"$33,291","$149,118",$994
+Canada,Toronto,Men's Casual,2,"$15,403","$20,811","$1,401"
+Canada,Toronto,Men's Dress,2,"$37,519","$84,690",$806
+Canada,Toronto,Sandal,2,"$1,190","$6,763",$38
+Canada,Toronto,Slipper,14,"$80,352","$302,074","$1,908"
+Canada,Toronto,Sport Shoe,29,"$34,585","$164,113",$913
+Canada,Toronto,Women's Casual,4,"$63,492","$149,239","$1,700"
+Canada,Toronto,Women's Dress,7,"$53,940","$165,711","$1,967"
+Canada,Vancouver,Boot,31,"$286,497","$882,080","$9,160"
+Canada,Vancouver,Men's Casual,25,"$353,361","$671,837","$20,470"
+Canada,Vancouver,Men's Dress,28,"$757,798","$1,847,559","$16,833"
+Canada,Vancouver,Sandal,15,"$5,120","$56,325",$294
+Canada,Vancouver,Slipper,27,"$700,513","$2,520,085","$21,247"
+Canada,Vancouver,Sport Shoe,26,"$64,026","$370,388","$2,297"
+Canada,Vancouver,Women's Casual,20,"$304,106","$665,323","$8,278"
+Canada,Vancouver,Women's Dress,21,"$756,347","$2,503,387","$19,378"
+Central America/Caribbean,Kingston,Boot,33,"$102,372","$393,376","$4,454"
+Central America/Caribbean,Kingston,Men's Casual,28,"$576,112","$1,159,556","$20,005"
+Central America/Caribbean,Kingston,Men's Dress,23,"$270,863","$618,703","$7,447"
+Central America/Caribbean,Kingston,Sandal,15,"$200,156","$624,163","$8,365"
+Central America/Caribbean,Kingston,Slipper,37,"$476,638","$1,555,357","$15,713"
+Central America/Caribbean,Kingston,Athletic Shoe,23,"$18,177","$86,162",$944
+Central America/Caribbean,Kingston,Women's Casual,18,"$215,069","$275,321","$7,361"
+Central America/Caribbean,Kingston,Women's Dress,41,"$375,817","$1,147,300","$11,656"
+Central America/Caribbean,Managua,Boot,17,"$34,660","$162,033","$1,775"
+Central America/Caribbean,Managua,Men's Casual,3,"$69,276","$79,666","$1,861"
+Central America/Caribbean,Managua,Men's Dress,4,"$35,393","$72,044","$1,456"
+Central America/Caribbean,Managua,Sandal,37,"$65,478","$261,456","$2,524"
+Central America/Caribbean,Managua,Slipper,25,"$92,539","$289,520","$2,800"
+Central America/Caribbean,Managua,Sport Shoe,14,"$5,655","$17,155",$269
+Central America/Caribbean,Managua,Women's Casual,3,"$48,567","$118,849","$1,318"
+Central America/Caribbean,Managua,Women's Dress,10,"$63,238","$163,951","$2,308"
+C. America & Caribbean,Mexico City,Boot,21,"$20,819","$79,994",$814
+C. America & Caribbean,Mexico City,Men's Casual,3,"$66,216","$70,123","$2,198"
+C. America & Caribbean,Mexico City,Men's Dress,3,"$30,157","$78,950","$1,012"
+C. America & Caribbean,Mexico City,Sandal,33,"$52,233","$175,201","$2,127"
+C. America & Caribbean,Mexico City,Slipper,31,"$96,113","$340,122","$4,028"
+C. America & Caribbean,Mexico City,Sport Shoe,3,"$2,196","$23,183",$59
+C. America & Caribbean,Mexico City,Women's Casual,2,"$31,301","$91,171",$973
+C. America & Caribbean,Mexico City,Women's Dress,7,"$69,553","$257,437","$1,614"
+Central America/Caribbean,San Juan,Boot,31,"$32,892","$135,309","$1,504"
+Central America/Caribbean,San Juan,Men's Casual,2,"$44,909","$182,986","$1,355"
+Central America/Caribbean,San Juan,Men's Dress,8,"$68,482","$137,355","$2,756"
+Central America/Caribbean,San Juan,Sandal,27,"$60,515","$210,250","$3,287"
+Central America/Caribbean,San Juan,Slipper,7,"$217,891","$707,919","$6,825"
+Central America/Caribbean,San Juan,Sport Shoe,4,$936,"$4,546",$74
+Central America/Caribbean,San Juan,Women's Casual,10,"$104,420","$318,207","$4,240"
+Central America/Caribbean,San Juan,Women's Dress,16,"$109,110","$336,513","$3,776"
+Eastern Europe,Budapest,Boot,22,"$74,102","$317,515","$3,341"
+Eastern Europe,Budapest,Casual: Men's,6,"$66,936","$87,655","$3,944"
+Eastern Europe,Budapest,Dress: Men's,3,"$37,499","$147,214",$930
+Eastern Europe,Budapest,Sandal,5,"$1,814","$4,894",$96
+Eastern Europe,Budapest,Slipper,17,"$111,816","$453,821","$4,070"
+Eastern Europe,Budapest,Sport Shoe,23,"$16,460","$79,416",$790
+Eastern Europe,Budapest,Casual: Women's,3,"$49,880","$137,093","$1,528"
+Eastern Europe,Budapest,Dress: Women's,6,"$52,022","$144,360","$1,452"
+Eastern Europe,Moscow,Boot,23,"$67,476","$329,604","$3,142"
+Eastern Europe,Moscow,Casual: Men's,3,"$55,094","$156,554","$1,895"
+Eastern Europe,Moscow,Dress: Men's,11,"$113,119","$302,236","$4,004"
+Eastern Europe,Moscow,Slipper,11,"$127,033","$520,271","$3,983"
+Eastern Europe,Moscow,Sport Shoe,23,"$21,464","$110,822",$859
+Eastern Europe,Moscow,Casual: Women's,6,"$104,119","$211,220","$2,325"
+Eastern Europe,Moscow,Dress: Women's,10,"$72,671","$196,973","$2,227"
+Eastern Europe,Prague,Boot,11,"$86,215","$341,326","$3,555"
+Eastern Europe,Prague,Casual: Men's,12,"$150,273","$336,151","$7,455"
+Eastern Europe,Prague,Dress: Men's,9,"$102,448","$231,514","$2,492"
+Eastern Europe,Prague,Sandal,2,$712,"$3,384",$48
+Eastern Europe,Prague,Slipper,29,"$128,971","$585,026","$5,346"
+Eastern Europe,Prague,Sport Shoe,18,"$23,708","$117,976",$623
+Eastern Europe,Prague,Casual: Women's,1,"$15,897","$33,800",$414
+Eastern Europe,Prague,Dress: Women's,14,"$128,497","$425,237","$3,434"
+Eastern Europe,Warsaw,Boot,26,"$78,992","$363,358","$3,246"
+Eastern Europe,Warsaw,Casual: Men's,15,"$304,093","$729,044","$9,364"
+Eastern Europe,Warsaw,Dress: Men's,10,"$82,695","$205,338","$2,862"
+Eastern Europe,Warsaw,Sandal,3,"$1,190",$960,$57
+Eastern Europe,Warsaw,Slipper,16,"$141,878","$712,365","$6,336"
+Eastern Europe,Warsaw,Sport Shoe,19,"$29,570","$139,313","$1,053"
+Eastern Europe,Warsaw,Casual: Women's,3,"$39,360","$102,641","$1,365"
+Eastern Europe,Warsaw,Dress: Women's,19,"$108,936","$425,390","$4,465"
+Middle East,Al-Khobar,Boot,10,"$15,062","$44,658",$765
+Middle East,Al-Khobar,Men's Casual,24,"$340,201","$616,745","$13,251"
+Middle East,Al-Khobar,Men's Dress,22,"$261,445","$711,246","$6,979"
+Middle East,Al-Khobar,Sandal,2,"$1,380","$13,343",$62
+Middle East,Al-Khobar,Slipper,26,"$66,796","$201,779","$3,052"
+Middle East,Al-Khobar,Sport Shoe,2,$449,"$1,836",$43
+Middle East,Al-Khobar,Women's Casual,13,"$226,514","$447,377","$5,966"
+Middle East,Al-Khobar,Women's Dress,11,"$241,820","$611,686","$6,167"
+Middle East,Dubai,Boot,15,"$90,972","$403,259","$4,049"
+Middle East,Dubai,Men's Casual,29,"$419,336","$868,115","$17,552"
+Middle East,Dubai,Men's Dress,25,"$324,312","$746,970","$8,159"
+Middle East,Dubai,Sandal,24,"$17,492","$59,985",$734
+Middle East,Dubai,Slipper,17,"$387,680","$1,238,698","$12,768"
+Middle East,Dubai,Sport Shoe,5,"$1,487","$11,432",$70
+Middle East,Dubai,Women's Casual,19,"$233,374","$416,012","$8,102"
+Middle East,Dubai,Women's Dress,19,"$435,891","$1,292,400","$12,999"
+Middle East,Tel Aviv,Boot,20,"$65,248","$222,165","$2,320"
+Middle East,Tel Aviv,Men's Casual,11,"$1,298,717","$2,881,005","$57,362"
+Middle East,Tel Aviv,Men's Dress,24,"$253,814","$631,479","$8,727"
+Middle East,Tel Aviv,Sandal,17,"$16,314","$71,094",$574
+Middle East,Tel Aviv,Slipper,21,"$208,004","$639,427","$7,738"
+Middle East,Tel Aviv,Sport Shoe,4,"$2,071","$15,121",$47
+Middle East,Tel Aviv,Women's Casual,19,"$288,904","$790,386","$12,000"
+Middle East,Tel Aviv,Women's Dress,18,"$434,496","$1,272,531","$17,394"
+Pacific,Auckland,Boot,12,"$20,141","$97,919",$962
+Pacific,Auckland,Men's Dress,1,"$4,892",$538,$325
+Pacific,Auckland,Sandal,1,$325,"$23,897",$10
+Pacific,Auckland,Slipper,11,"$33,000","$136,625","$1,321"
+Pacific,Auckland,Athletic Shoe,5,"$5,117","$35,246",$211
+Pacific,Auckland,Women's Casual,1,"$18,189","$15,241",$421
+Pacific,Auckland,Women's Dress,6,"$42,760","$158,688","$1,278"
+Pacific,Canberra,Boot,21,"$32,640","$188,437","$1,237"
+Pacific,Canberra,Men's Casual,1,"$24,733","$45,172",$614
+Pacific,Canberra,Men's Dress,1,"$4,231","$346,780",$350
+Pacific,Canberra,Sandal,1,"$1,093","$8,711",$21
+Pacific,Canberra,Slipper,10,"$44,121","$155,948","$1,252"
+Pacific,Canberra,Sport Shoe,10,"$12,211","$80,393",$336
+Pacific,Canberra,Women's Casual,1,"$15,032","$42,469",$409
+Pacific,Canberra,Women's Dress,5,"$21,486","$58,824","$1,096"
+Pacific,Jakarta,Boot,6,"$11,975","$50,645",$523
+Pacific,Jakarta,Men's Casual,12,"$373,908","$1,139,026","$10,960"
+Pacific,Jakarta,Men's Dress,22,"$186,631","$559,904","$6,447"
+Pacific,Jakarta,Sandal,31,"$24,940","$134,557","$1,112"
+Pacific,Jakarta,Slipper,7,"$22,060","$82,215",$861
+Pacific,Jakarta,Sport Shoe,4,"$6,110","$26,124",$164
+Pacific,Jakarta,Women's Casual,1,"$18,761","$27,749",$468
+Pacific,Jakarta,Women's Dress,1,"$4,659","$19,899",$255
+Pacific,Kuala Lumpur,Boot,15,"$25,796","$143,063","$1,110"
+Pacific,Kuala Lumpur,Men's Casual,6,"$106,657","$310,404","$4,092"
+Pacific,Kuala Lumpur,Men's Dress,7,"$55,667","$161,328","$2,288"
+Pacific,Kuala Lumpur,Sandal,7,"$4,130","$24,936",$213
+Pacific,Kuala Lumpur,Slipper,17,"$83,212","$382,786","$2,568"
+Pacific,Kuala Lumpur,Sport Shoe,2,$450,"$8,136",$42
+Pacific,Kuala  Lumpur,Women's Casual,2,"$36,110","$91,052",$995
+Pacific,Kuala Lumpur,Women's Dress,8,"$61,108","$245,543","$1,977"
+Pacific,Manila,Boot,21,"$31,503","$110,179","$1,449"
+Pacific,Manila,Men's Casual,7,"$128,309","$264,891","$5,285"
+Pacific,Manila,Men's Dress,14,"$144,151","$464,158","$4,414"
+Pacific,Manila,Sandal,18,"$15,759","$65,223",$620
+Pacific,Manila,Slipper,14,"$171,735","$708,799","$5,544"
+Pacific,Manila,Sport Shoe,8,"$2,281","$15,955",$144
+Pacific,Manila,Women's Casual,9,"$131,794","$265,543","$4,241"
+Pacific,Manila,Women's Dress,12,"$229,372","$818,328","$7,265"
+Pacific,Singapore,Boot,2,"$1,520",$374,$120
+Pacific,Singapore,Men's Casual,1,"$28,761","$89,599",$690
+Pacific,Singapore,Men's Dress,3,"$30,619","$103,585","$1,148"
+Pacific,Singapore,Sandal,1,"$2,177","$5,897",$35
+Pacific,Singapore,Slipper,6,"$36,612","$139,288",$843
+Pacific,Singapore,Women's Dress,5,"$40,056","$117,217","$1,413"
+South America,Bogota,Boot,19,"$15,312","$35,805","$1,229"
+South America,Bogota,Men's Casual,2,"$20,835","$43,155","$1,136"
+South America,Bogota,Men's Dress,4,"$37,187","$62,770","$1,424"
+South America,Bogota,Sandal,16,"$22,712","$62,856","$1,292"
+South America,Bogota,Slipper,15,"$33,723","$88,411","$2,033"
+South America,Bogota,Sport Shoe,19,"$4,729","$11,597",$333
+South America,Bogota,Women's Dress,14,"$71,736","$117,761","$2,646"
+South America,Buenos Aires,Boot,16,"$17,027","$39,291","$1,073"
+South America,Buenos Aires,Men's Casual,1,"$16,019","$15,889",$498
+South America,Buenos Aires,Men's Dress,1,"$14,437","$29,932",$354
+South America,Buenos Aires,Sandal,21,"$18,765","$75,358",$604
+South America,Buenos Aires,Slipper,8,"$11,759","$23,822",$939
+South America,Buenos Aires,Sport Shoe,14,"$3,545","$6,103",$229
+South America,Buenos Aires,Women's Casual,1,"$15,470","$19,479",$382
+South America,Buenos Aires,Women's Dress,4,"$21,261","$31,081",$964
+South America,Caracas,Boot,13,"$63,697","$307,509","$2,731"
+South America,Caracas,Men's Casual,14,"$245,757","$445,579","$7,918"
+South America,Caracas,Men's Dress,15,"$135,371","$275,526","$4,710"
+South America,Caracas,Sandal,29,"$22,973","$118,535","$1,096"
+South America,Caracas,Slipper,19,"$132,853","$457,658","$4,609"
+South America,Caracas,Sport Shoe,4,"$1,716","$12,360",$79
+South America,Caracas,Women's Casual,3,"$42,654","$68,096","$1,525"
+South America,Caracas,Women's Dress,26,"$144,302","$454,123","$5,274"
+South America,La Paz,Boot,21,"$36,309","$100,618","$2,925"
+South America,La Paz,Men's Casual,6,"$124,203","$184,499","$4,046"
+South America,La Paz,Men's Dress,11,"$131,079","$173,417","$3,698"
+South America,La Paz,Sandal,31,"$27,728","$81,525",$945
+South America,La Paz,Slipper,18,"$125,763","$338,758","$6,501"
+South America,La Paz,Sport Shoe,15,"$8,095","$25,212",$254
+South America,La Paz,Women's Casual,6,"$48,260","$138,402","$2,547"
+South America,La Paz,Women's Dress,8,"$29,069","$73,048","$1,648"
+South America,Montevideo,Boot,15,"$53,703","$150,601","$3,226"
+South America,Montevideo,Men's Casual,3,"$52,968","$76,200","$1,811"
+South America,Montevideo,Men's Dress,8,"$45,566","$125,584","$2,708"
+South America,Montevideo,Sandal,12,"$27,742","$90,767","$1,913"
+South America,Montevideo,Slipper,28,"$80,525","$236,273","$3,419"
+South America,Montevideo,Sport Shoe,22,"$8,365","$39,256",$361
+South America,Montevideo,Women's Casual,3,"$28,343","$66,442","$1,374"
+South America,Montevideo,Women's Dress,5,"$21,434","$63,913","$1,213"
+South America,Santiago,Boot,14,"$14,907","$39,222",$939
+South America,Santiago,Men's Dress,3,"$23,117","$44,160","$1,026"
+South America,Santiago,Sandal,22,"$12,343","$35,668",$631
+South America,Santiago,Slipper,9,"$23,260","$46,106","$1,224"
+South America,Santiago,Sport Shoe,6,"$4,184","$19,113",$112
+South America,Santiago,Women's Casual,1,"$5,709","$6,972",$506
+South America,Santiago,Women's Dress,3,"$21,436","$45,398",$759
+South America,Sao Paulo,Boot,12,"$44,720","$173,578","$2,471"
+South America,Sao Paulo,Men's Casual,5,"$85,168","$107,413","$3,120"
+South America,Sao  Paulo,Men's Dress,5,"$38,912","$89,758","$1,740"
+South America,Sao Paulo,Sandal,18,"$33,662","$121,645","$1,682"
+South America,Sao Paulo,Slipper,21,"$54,768","$217,967","$2,675"
+South America,Sao  Paulo,Athletic Shoe,7,"$2,427","$10,132",$147
+South America,Sao Paulo,Women's Casual,3,"$38,791","$117,081","$1,438"
+South America,Sao Paulo,Women's Dress,13,"$68,387","$144,670","$2,714"
+United States,Chicago,Boot,16,"$82,483","$305,061","$3,735"
+United States,Chicago,Men's Casual,26,"$408,978","$831,672","$17,907"
+United States,Chicago,Men's Dress,28,"$261,607","$824,485","$8,915"
+United States,Chicago,Sandal,2,$601,"$17,121",$35
+United States,Chicago,Slipper,13,"$329,235","$1,049,530","$10,654"
+United States,Chicago,Sport Shoe,17,"$17,347","$74,605",$684
+United States,Chicago,Women's Casual,11,"$172,021","$474,524","$5,399"
+United States,Chicago,Women's Dress,37,"$293,313","$754,157","$10,194"
+United States,Los Angeles,Boot,14,"$85,932","$347,252","$3,283"
+United States,Los Angeles,Men's Casual,9,"$177,010","$401,199","$6,336"
+United States,Los Angeles,Men's Dress,15,"$147,670","$348,869","$4,962"
+United States,Los Angeles,Sandal,2,$737,"$20,838",$38
+United States,Los  Angeles,Slipper,11,"$98,866","$330,743","$3,457"
+United States,Los Angeles,Sport Shoe,19,"$16,307","$98,221",$601
+United States,Los Angeles,Women's Casual,6,"$62,661","$231,285","$2,346"
+United States,Los Angeles,Women's Dress,16,"$148,129","$452,383","$4,289"
+United States,Minneapolis,Boot,16,"$111,940","$615,489","$4,475"
+United States,Minneapolis,Men's Casual,16,"$263,712","$564,741","$9,991"
+United States,Minneapolis,Men's Dress,22,"$235,842","$623,645","$7,344"
+United States,Minneapolis,Sandal,8,"$3,551","$32,907",$161
+United States,Minneapolis,Slipper,16,"$131,813","$487,233","$4,833"
+United States,Minneapolis,Sport Shoe,29,"$18,151","$116,192","$1,009"
+United States,Minneapolis,Women's Casual,7,"$110,760","$287,412","$3,440"
+United States,Minneapolis,Women's Dress,27,"$224,168","$760,977","$5,820"
+United States,New York,Boot,18,"$97,151","$495,479","$3,983"
+United States,New York,Men's Casual,20,"$456,985","$890,096","$13,453"
+United States,New York,Men's Dress,18,"$191,755","$658,134","$5,399"
+United States,New York,Sandal,1,$554,"$5,060",$23
+United States,New York,Slipper,24,"$252,758","$1,059,333","$8,503"
+United States,New York,Sport Shoe,23,"$22,190","$141,140",$847
+United States,New York,Women's Casual,10,"$178,842","$438,035","$4,236"
+United States,New York,Women's Dress,17,"$288,972","$1,129,697","$10,257"
+United States,Seattle,Boot,15,"$70,790","$226,678","$3,039"
+United States,Seattle,Men's Casual,6,"$65,842","$112,538","$3,395"
+United States,Seattle,Men's Dress,10,"$132,397","$274,310","$3,153"
+United States,Seattle,Sandal,10,"$6,596","$18,768",$181
+United States,Seattle,Slipper,10,"$155,255","$553,502","$5,277"
+United States,Seattle,Sport Shoe,29,"$30,408","$108,266","$1,021"
+United States,Seattle,Women's Casual,2,"$17,252","$28,513",$790
+United States,Seattle,Women's Dress,21,"$133,405","$392,307","$4,037"
+Western Europe,Copenhagen,Boot,2,"$1,663","$4,657",$129
+Western Europe,Copenhagen,Casual: Men's,1,"$38,492","$90,672",$767
+Western Europe,Copenhagen,Dress: Men's,2,"$12,415","$36,074",$686
+Western Europe,Copenhagen,Slipper,4,"$15,908","$69,133",$594
+Western Europe,Copenhagen,Sport Shoe,1,"$1,927","$17,683",$31
+Western Europe,Copenhagen,Sport Shoe,13,"$101,922","$327,742","$4,204"
+Western Europe,Copenhagen,Casual: Women's,26,"$502,636","$1,110,412","$17,448"
+Western Europe,Copenhagen,Dress: Women's,3,"$18,153","$62,048",$664
+Western Europe,Geneva,Boot,22,"$41,341","$171,030","$1,560"
+Western Europe,Geneva,Casual: Men's,4,"$71,618","$138,897","$2,484"
+Western Europe,Geneva,Dress: Men's,3,"$26,888","$60,544","$1,140"
+Western Europe,Geneva,Sandal,3,$736,"$3,529",$51
+Western Europe,Geneva,Slipper,27,"$109,808","$440,623","$3,311"
+Western Europe,Geneva,Sport Shoe,17,"$15,951","$119,953",$592
+Western Europe,Geneva,Casual: Women's,5,"$69,470","$226,247","$2,114"
+Western Europe,Geneva,Dress: Women's,14,"$111,396","$339,166","$3,036"
+Western Europe,Heidelberg,Boot,14,"$65,610","$301,779","$2,829"
+Western Europe,Heidelberg,Casual: Men's,12,"$175,694","$595,118","$9,845"
+Western Europe,Heidelberg,Dress: Men's,16,"$161,679","$468,267","$5,373"
+Western Europe,Heidelberg,Sandal,3,$977,"$4,618",$62
+Western Europe,Heidelberg,Slipper,17,"$243,342","$928,112","$7,940"
+Western Europe,Heidelberg,Sport Shoe,11,"$38,961","$230,819","$1,316"
+Western Europe,Heidelberg,Casual: Women's,9,"$141,287","$424,473","$3,861"
+Western Europe,Heidelberg,Dress: Women's,23,"$140,189","$403,156","$4,812"
+Western Europe,Lisbon,Boot,18,"$76,349","$341,911","$3,290"
+Western Europe,Lisbon,Casual: Men's,18,"$311,341","$502,959","$12,247"
+Western Europe,Lisbon,Dress: Men's,8,"$108,906","$328,209","$2,665"
+Western Europe,Lisbon,Sandal,4,"$1,650","$24,253",$64
+Western Europe,Lisbon,Slipper,12,"$170,694","$865,325","$5,925"
+Western Europe,Lisbon,Sport Shoe,19,"$19,686","$118,262",$824
+Western Europe,Lisbon,Casual: Women's,3,"$41,939","$112,366","$1,266"
+Western Europe,Lisbon,Dress: Women's,17,"$167,780","$538,624","$4,150"
+Western Europe,London,Boot,31,"$54,449","$289,527","$2,321"
+Western Europe,London,Casual: Men's,13,"$151,402","$401,374","$7,159"
+Western Europe,London,Dress: Men's,13,"$151,458","$446,963","$4,870"
+Western Europe,London,Sandal,2,"$5,217","$11,111",$24
+Western Europe,London,Slipper,14,"$172,002","$625,925","$5,620"
+Western Europe,London,Sport Shoe,10,"$9,165","$42,239",$354
+Western Europe,London,Casual: Women's,5,"$68,962","$162,447","$1,978"
+Western Europe,London,Dress: Women's,25,"$149,354","$527,226","$5,084"
+Western Europe,Madrid,Boot,1,"$1,179","$1,027",$93
+Western Europe,Madrid,Casual: Men's,4,"$71,014","$59,011","$3,784"
+Western Europe,Madrid,Dress: Men's,4,"$54,791","$181,739","$1,468"
+Western Europe,Madrid,Slipper,4,"$12,127","$10,234",$500
+Western Europe,Madrid,Casual: Women's,3,"$50,146","$113,870","$1,216"
+Western Europe,Madrid,Dress: Women's,1,"$11,385","$59,192",$273
+Western Europe,Paris,Boot,15,"$19,196","$41,506","$1,006"
+Western Europe,Paris,Casual: Men's,5,"$89,416","$156,288","$3,863"
+Western Europe,Paris,Dress: Men's,16,"$203,532","$421,109","$5,722"
+Western Europe,Paris,Sandal,3,"$1,520","$23,816",$60
+Western Europe,Paris,Slipper,19,"$90,975","$251,927","$2,372"
+Western Europe,Paris,Sport Shoe,4,"$3,449","$28,588",$186
+Western Europe,Paris,Casual: Women's,5,"$91,243","$184,365","$2,388"
+Western Europe,Paris,Dress: Women's,19,"$122,546","$362,247","$3,727"
+Western Europe,Rome,Boot,23,"$36,244","$209,271","$1,455"
+Western Europe,Rome,Casual: Men's,2,"$37,271","$91,670","$1,761"
+Western Europe,Rome,Dress: Men's,2,"$28,249","$69,058",$651
+Western Europe,Rome,Sandal,3,"$1,249","$4,611",$48
+Western Europe,Rome,Slipper,13,"$42,442","$132,283","$1,829"
+Western Europe,Rome,Sport Shoe,14,"$9,969","$74,848",$549
+Western Europe,Rome,Casual: Women's,2,"$19,964","$62,256",$954
+Western Europe,Rome,Dress: Women's,16,"$106,676","$389,861","$3,160"
